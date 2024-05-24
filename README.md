@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning Japanese 
 - 👯 I’m looking to collaborate on education, applied research
 - 💬 Ask me about anything software, IoT and machine learning
-- 📫 How to reach me: [Linkedin](https://in.linkedin.com/in/lakshyatyagi), Portfolio (https://lakshyatyagi.me/)
+- 📫 How to reach me: [Linkedin](https://in.linkedin.com/in/lakshyatyagi), [Portfolio](https://lakshyatyagi.me/)
 

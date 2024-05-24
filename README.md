@@ -1,4 +1,6 @@
-## Hi there 👋, I am Lakshya Tyagi, a Solutions Engineer, Corporate @ GitHub. Welcome to my GitHub profile!
+## Hi there 👋
+I am Lakshya Tyagi, a Solutions Engineer, Corporate @ GitHub. 
+Welcome to my GitHub profile!
 
 - 🔭 I’m currently working on various things at GitHub
 - 🌱 I’m currently learning Japanese 

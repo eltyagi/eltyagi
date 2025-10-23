@@ -1,10 +1,8 @@
 ## Hi there 👋
-I am Lakshya Tyagi, a Solutions Engineer, Corporate @ GitHub. 
-Welcome to my GitHub profile!
+I am Lakshya, Solutions Engineer at GitHub.
 
-- 🔭 I’m currently working on various things at GitHub
-- 🌱 I’m currently learning Japanese 
-- 👯 I’m looking to collaborate on education, applied research
-- 💬 Ask me about anything software, IoT and machine learning
-- 📫 How to reach me: [Linkedin](https://in.linkedin.com/in/lakshyatyagi), [Portfolio](https://eltyagi.xyz)
-
+- 🔭 I’m currently working on bringing best-in-class dev tools to developers in APAC. 
+- 🌱 I’m currently deep diving into fundamental mathematics and GitHub Actions.
+- 👯 I am always looking to find new ways to reach budding engineers, and collaborate on delivering high quality education.
+- 💬 Ask me about anything software, IoT and machine learning.
+- 📫 You can reach out to me on [Linkedin](https://in.linkedin.com/in/lakshyatyagi) or check out my [website!](https://eltyagi.xyz)

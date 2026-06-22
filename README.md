@@ -2,4 +2,5 @@
 I am Lakshya, I bring the best in developer tooling, to some of the most complex SaaS markets in the world.
 I build, stuff. 
 
-1.[ Eltyagi's Commonplace](https://eltyagi.xyz/)
+[ Eltyagi's Commonplace](https://eltyagi.xyz/)
+
